@@ -7,6 +7,7 @@
 //
 
 #import <XCTest/XCTest.h>
+#import <VSMobileCenterExtensions/VSMobileCenterExtensions.h>
 
 @interface TestDemoUITests : XCTestCase
 
@@ -33,6 +34,7 @@
 }
 
 - (void)testExample {
+    label(@"testing executed");
     // Use recording to get started writing UI tests.
     // Use XCTAssert and related functions to verify your tests produce the correct results.
 }
