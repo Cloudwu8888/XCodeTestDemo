@@ -63,6 +63,7 @@
 		4A1937941EE56760000C00FB /* TestDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestDemoUITests.m; sourceTree = "<group>"; };
 		4A1937961EE56760000C00FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4A1937A31EEE9A67000C00FB /* VSMobileCenterExtensions.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = VSMobileCenterExtensions.framework; sourceTree = "<group>"; };
+		4A1937A91EEEB88B000C00FB /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		4EBD865A04612C4C00584DF1 /* Pods-TestDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TestDemo/Pods-TestDemo.debug.xcconfig"; sourceTree = "<group>"; };
 		60A65EABD12B2ADD78D718E1 /* Pods-TestDemoTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestDemoTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TestDemoTests/Pods-TestDemoTests.debug.xcconfig"; sourceTree = "<group>"; };
 		610B31B1B5B30B4E4E7151F7 /* libPods-TestDemo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TestDemo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -109,6 +110,7 @@
 		4A1937631EE56760000C00FB = {
 			isa = PBXGroup;
 			children = (
+				4A1937A91EEEB88B000C00FB /* .gitignore */,
 				4A1937A31EEE9A67000C00FB /* VSMobileCenterExtensions.framework */,
 				4A19376E1EE56760000C00FB /* TestDemo */,
 				4A1937881EE56760000C00FB /* TestDemoTests */,
